@@ -6,6 +6,7 @@
 
 - paste text to [dogbin](https://del.dog/)
 - get paste from [dogbin](https://del.dog/)
+- save the getting text to file
 - working with asynchronous / synchronous
 
 
