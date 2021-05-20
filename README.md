@@ -1,6 +1,6 @@
 # Dogbin-API-Wrapper
 
-## del.dog asynchronous / synchronous API
+## del.dog asynchronous / synchronous unofficial API
 
 ### you can to use with this library:
 
