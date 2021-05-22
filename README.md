@@ -22,7 +22,7 @@ pip install dogbin
 paste to [dogbin](https://del.dog/)
 -----------------
 
-```python
+```python3
 from dogbin import Dogbin
 import asyncio
 
