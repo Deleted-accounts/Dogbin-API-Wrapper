@@ -1,5 +1,7 @@
 # Dogbin-API-Wrapper
 
+## del.dog is down **so project now unavilable**
+
 ## del.dog asynchronous / synchronous unofficial API
 
 ### you can to use with this library:
